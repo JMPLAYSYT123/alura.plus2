@@ -99,3 +99,43 @@ color: var(--cinza-secundario)
 }
 
 
+.secundario__botao{
+
+  display: inline-block;
+  margin-top: 1em;
+
+
+
+}
+
+.cntainer__descriçao{
+
+padding: 2em;
+
+
+}
+
+.dispositivos__lista { display: flex; }
+
+justify-content center
+
+.dispositivos { text-align: center; }
+
+text-align
+
+.dispositivos__lista{
+    list-style-type: none;
+
+
+    font-size: 48px; 
+
+    font-size: 32px; 
+    color: var(--branco-principal);
+    margin: 5em 0;
+
+
+
+
+
+
+}
